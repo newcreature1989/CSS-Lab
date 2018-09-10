@@ -1,0 +1,94 @@
+#1 {
+    color: orange;
+}
+#2 {
+    color: rosybrown;
+}
+#3 {
+    color: coral;
+}
+#4 {
+    color: gold;
+}
+#5 {
+    color: seagreen;
+}
+
+.lists {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+body {
+    background-color: rgb(175, 170, 170);
+    font-family: 'Gamja Flower', cursive;
+    text-align: center;
+   
+ }
+
+ .readme-wrapper {
+     text-align: center;
+ }
+
+ a {
+     color: green;
+     text-decoration: none;
+ }
+ 
+a:hover {
+     color: red;
+     font-weight: bolder;
+ }
+
+ span {
+     color: red;
+     font-weight: 5em;
+ }
+
+ .favorite {
+     color: black;
+ }
+
+ .hate {
+     color brown;
+ }
+
+ h1 {
+     color: indigo;
+ }
+ 
+ .picture {
+     width: 25px;
+     height:25px;
+     background-color: pink;
+     position: inline;
+ }
+ .boxes {
+    display: block;
+    margin: 1em 0;
+    padding: 5em;
+    border: 2px;
+    border-radius: 2em;
+    width: 20%;
+ }
+ 
+ #box1 {
+     background-color: aqua;
+     
+ 
+ }
+ 
+ #box2 {
+     background-color: blueviolet;
+ }
+ 
+ #box3 {
+     background-color: brown;
+ 
+ }
+ 
+ #box4 {
+     background-color: chartreuse;
+    
+ }
